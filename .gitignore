@@ -31,3 +31,8 @@ models/scaler_42.pkl
 # OS
 .DS_Store
 Thumbs.db
+
+# Model files
+*.pt
+*.pth
+*.h5
