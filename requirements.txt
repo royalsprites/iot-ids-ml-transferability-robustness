@@ -1,0 +1,30 @@
+# Core scientific computing
+numpy==2.2.6
+pandas==2.3.3
+scipy==1.16.3
+
+# Machine learning
+scikit-learn==1.7.2
+imbalanced-learn==0.14.1
+joblib==1.5.2
+
+# Deep learning
+tensorflow==2.21.0
+
+# Feature importance / explainability
+shap==0.51.0
+
+# Statistical testing
+statsmodels==0.14.6
+scikit-posthocs==0.12.0
+
+# Visualization
+matplotlib==3.10.7
+seaborn==0.13.2
+
+# Data I/O
+pyarrow==23.0.1
+
+# Jupyter
+ipykernel>=7.1.0
+jupyterlab>=4.4.0
